@@ -1,0 +1,186 @@
+.div1 {
+    left: -3rem;
+    transition: 0.2s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div11 {
+    top: 5rem;
+    transform: scale(1);
+    left: 2rem;
+    transition: 0.2s;
+
+}
+
+.div2 {
+    left: -3rem;
+    transition: 0.3s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div22 {
+    top: 5rem;
+    transform: scale(1);
+    left: 12rem;
+    transition: 0.3s;
+
+}
+
+.div3 {
+    left: -3rem;
+    transition: 0.4s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div33 {
+    top: 5rem;
+    transform: scale(1);
+    left: 22rem;
+    transition: 0.4s;
+
+}
+
+.div4 {
+    left: -3rem;
+    transition: 0.5s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div44 {
+    top: 5rem;
+    transform: scale(1);
+    left: 32rem;
+    transition: 0.5s;
+
+}
+
+.div5 {
+    left: -3rem;
+    transition: 0.6s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div55 {
+    top: 5rem;
+    transform: scale(1);
+    left: 42rem;
+    transition: 0.6s;
+
+}
+
+.div6 {
+    left: -3rem;
+    transition: 0.7s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div66 {
+    top: 5rem;
+    transform: scale(1);
+    left: 52rem;
+    transition: 0.7s;
+
+}
+
+.div7 {
+    left: -3rem;
+    transition: 0.8s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div77 {
+    top: 5rem;
+    transform: scale(1);
+    left: 62rem;
+    transition: 0.8s;
+
+}
+
+.div8 {
+    top: 2rem;
+    left: -3rem;
+    transition: 0.2s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div88 {
+    top: 5rem;
+    transform: scale(1);
+    top: 15rem;
+    left: 2rem;
+    transition: 0.2s;
+
+}
+
+.div9 {
+    top: 2rem;
+    left: -3rem;
+    transition: 0.3s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div99 {
+    top: 5rem;
+    transform: scale(1);
+    top: 15rem;
+    left: 12rem;
+    transition: 0.3s;
+
+}
+.div10 {
+    top: 2rem;
+    left: -3rem;
+    transition: 0.4s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div100 {
+    top: 5rem;
+    transform: scale(1);
+    top: 15rem;
+    left: 22rem;
+    transition: 0.4s;
+
+}
+.div111 {
+    top: 2rem;
+    left: -3rem;
+    transition: 0.5s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div1111 {
+    top: 5rem;
+    transform: scale(1);
+    top: 15rem;
+    left: 32rem;
+    transition: 0.5s;
+
+}
+.div12 {
+    top: 2rem;
+    left: -3rem;
+    transition: 0.6s;
+    transform: scale(0);
+    top: 33rem;
+}
+
+.div122 {
+    top: 5rem;
+    transform: scale(1);
+    top: 15rem;
+    left: 42rem;
+    transition: 0.6s;
+
+}
